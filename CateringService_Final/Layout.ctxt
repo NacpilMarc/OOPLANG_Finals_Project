@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Layout
+comment1.params=w\ h\ gridCons
+comment1.target=void\ setGridWidthHeight(int,\ int,\ java.awt.GridBagConstraints)
+comment10.params=top\ left\ bottom\ right\ gridCons
+comment10.target=void\ setInsets(int,\ int,\ int,\ int,\ java.awt.GridBagConstraints)
+comment11.params=text\ _COLUMNS\ x\ y\ frame\ gridCons
+comment11.target=void\ addATextField(javax.swing.JTextField,\ int,\ int,\ int,\ javax.swing.JFrame,\ java.awt.GridBagConstraints)
+comment12.params=text\ scroll\ _COLUMNS\ x\ y\ frame\ gridCons
+comment12.target=void\ addATextArea(javax.swing.JTextArea,\ javax.swing.JScrollPane,\ int,\ int,\ int,\ javax.swing.JFrame,\ java.awt.GridBagConstraints)
+comment2.params=text\ x\ y\ frame\ gridCons
+comment2.target=void\ addATextField(javax.swing.JTextField,\ int,\ int,\ javax.swing.JFrame,\ java.awt.GridBagConstraints)
+comment3.params=button\ text\ x\ y\ w\ h\ frame\ gridConsWidth
+comment3.target=void\ addAButton(javax.swing.JButton,\ java.lang.String,\ int,\ int,\ int,\ int,\ javax.swing.JFrame,\ java.awt.GridBagConstraints)
+comment4.params=button\ text\ x\ y\ frame\ gridCons
+comment4.target=void\ addAButton(javax.swing.JButton,\ java.lang.String,\ int,\ int,\ javax.swing.JFrame,\ java.awt.GridBagConstraints)
+comment5.params=label\ text\ x\ y\ w\ h\ frame\ gridConsWidth
+comment5.target=void\ addALabel(javax.swing.JLabel,\ java.lang.String,\ int,\ int,\ int,\ int,\ javax.swing.JFrame,\ java.awt.GridBagConstraints)
+comment6.params=label\ text\ x\ y\ frame\ gridCons
+comment6.target=void\ addALabel(javax.swing.JLabel,\ java.lang.String,\ int,\ int,\ javax.swing.JFrame,\ java.awt.GridBagConstraints)
+comment7.params=comboBox\ x\ y\ frame\ gridCons
+comment7.target=void\ addAComboBox(javax.swing.JComboBox,\ int,\ int,\ javax.swing.JFrame,\ java.awt.GridBagConstraints)
+comment8.params=x\ y\ gridCons
+comment8.target=void\ setGridGap(int,\ int,\ java.awt.GridBagConstraints)
+comment9.params=top\ left\ bottom\ right\ gridCons\ gridConsWidth
+comment9.target=void\ setInsets(int,\ int,\ int,\ int,\ java.awt.GridBagConstraints,\ java.awt.GridBagConstraints)
+numComments=13
